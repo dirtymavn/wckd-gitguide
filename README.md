@@ -1,4 +1,4 @@
-# gmv-gitguide
+# gitguide
 
 There's gotta be reminder for slow-learner like me.
 
